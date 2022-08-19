@@ -25,6 +25,46 @@ Categories:
 | Ambulance siren          |  159 |      1253      |
 | Firetruck siren          |  76  |       822      |
 
+## Citation
+
+If you use such dataset, please consider citing the following works:
+
+```
+@InProceedings{10.1007/978-3-030-26633-2_8,
+author="Sammarco, Matteo and Detyniecki, Marcin",
+editor="Donnellan, Brian and Klein, Cornel and Helfert, Markus and Gusikhin, Oleg",
+title="Car Accident Detection and Reconstruction Through Sound Analysis with Crashzam",
+booktitle="Smart Cities, Green Technologies and Intelligent Transport Systems",
+year="2019",
+publisher="Springer International Publishing",
+address="Cham",
+pages="159--180",
+isbn="978-3-030-26633-2"
+}
+
+```
+
+```
+@inproceedings{DBLP:conf/vehits/SammarcoD18,
+  author    = {Matteo Sammarco and
+               Marcin Detyniecki},
+  editor    = {Markus Helfert and
+               Oleg Gusikhin},
+  title     = {Crashzam: Sound-based Car Crash Detection},
+  booktitle = {Proceedings of the 4th International Conference on Vehicle Technology
+               and Intelligent Transport Systems, {VEHITS} 2018, Funchal, Madeira,
+               Portugal, March 16-18, 2018},
+  pages     = {27--35},
+  publisher = {SciTePress},
+  year      = {2018},
+  url       = {https://doi.org/10.5220/0006629200270035},
+  doi       = {10.5220/0006629200270035},
+  timestamp = {Mon, 30 Apr 2018 15:04:00 +0200},
+  biburl    = {https://dblp.org/rec/conf/vehits/SammarcoD18.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+```
+
 ## Requirements
 In order to run this script, you should have already installed:
 - youtube-dl
